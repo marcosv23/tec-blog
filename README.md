@@ -9,4 +9,6 @@ Do you wanna see this simple page and its styles ?
 
 Click below:
 
+https://marcosv23.github.io/tec-blog/
+
 
